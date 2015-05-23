@@ -6,6 +6,8 @@
 ## Anpassung
 
 Diese Anpassung wurde in Brackets vorgenommen
+danach wurden dann auch Änderungen direkt in Github vorgenommen.
+
 
 ##Usage
 To use animate.css in your website, simply drop the stylesheet into your document's `<head>`, and add the class `animated` to an element, along with any of the animation names. That's it! You've got a CSS animated element. Super!
